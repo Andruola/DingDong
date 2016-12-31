@@ -1,0 +1,13 @@
+.AnchorPane {
+	-fx-background-color: #111111;
+}
+.button {
+    -fx-opacity: 1.0;
+	-fx-color: #555555;
+}
+
+.button:hover {
+    -fx-opacity: 0.6;
+}
+
+

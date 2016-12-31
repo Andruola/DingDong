@@ -1,0 +1,11 @@
+.button {
+    -fx-opacity: 1.0;
+	-fx-background-color: #cccccc;
+}
+
+.button:hover {
+    -fx-opacity: 0.6;
+	-fx-background-color: #eeffee;
+}
+
+
